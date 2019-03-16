@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Oct 18 21:52:40 2018
+NDD: A neural network for predicting DDIs.
+@author: Narjes Rohani (GreenBlueMind)
 
-@author: Programmer
 """
 
 import numpy as np
