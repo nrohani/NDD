@@ -1,4 +1,4 @@
-NDD: A Novel Method For Predicting Drug-Drug Interaction By Deep Neural Network
+NDD: A Novel Method For Predicting Drug-Drug Interaction By Neural Network
 Due to the great importance of this issue in the economy, industry, and
 health, proposing appropriate computational methods for predicting unknown
 DDI with high precision is challenging. We propose a novel machine learning
