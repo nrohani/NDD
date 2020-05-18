@@ -3,7 +3,7 @@
 Due to the great importance of this issue in the economy, industry, and health, proposing appropriate computational methods for predicting unknown DDI with high precision is challenging. We propose a novel machine learning method for predicting unknown DDIs called "NDD", using a two-layer fully connected neural network. NDD uses various characteristics of drugs to have comprehensive information. Multiple drug similarities are calculated. NDD integrat various drug similarities with a non-linear similarity fusion method called "SNF" to achieve high-level features.
 
 **Link of paper**: https://www.nature.com/articles/s41598-019-50121-3
-![NDD overview]({{site.baseurl}}/https://github.com/nrohani/NDD/blob/master/NDD/NDD.jpg)
+![NDD overview](https://github.com/nrohani/NDD/blob/master/NDD/NDD.jpg)
 ### Dependency:
 - python version 3.5.3
 - keras lib https://github.com/fchollet/keras/
