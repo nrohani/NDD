@@ -14,7 +14,7 @@ Codes of functions of NDD are available in NDD folder.
 ### Contact
 Please do not hesitate to contact me if you have any question: 
 
-Mail: n.rohani@mail.sbu.ac.ir
+Email: n.rohani@mail.sbu.ac.ir
 
 Please cite us if you find this study helpful.
 
